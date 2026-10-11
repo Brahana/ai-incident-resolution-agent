@@ -1,0 +1,5 @@
+2026-10-11 10:00:01 INFO Batch processing started
+2026-10-11 10:00:05 INFO Connecting to database
+2026-10-11 10:00:10 ERROR Database connection timeout
+2026-10-11 10:00:10 ERROR Batch processing failed
+2026-10-11 10:00:11 INFO Job terminated
